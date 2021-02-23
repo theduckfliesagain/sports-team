@@ -24,4 +24,12 @@ tr:nth-child(odd) {
   }
 section > img{
     width: 500px;
+    border: 20px solid gold;
+    border-radius: 10px;
+}
+
+section > a {
+    font-size: 40px;
+    font-weight: bold;
+    
 }
