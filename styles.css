@@ -22,3 +22,6 @@ tr:nth-child(odd) {
     background-color: rgb(216, 197, 24) !important;
     color: black;
   }
+section > img{
+    width: 500px;
+}
