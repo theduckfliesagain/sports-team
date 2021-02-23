@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+tr:nth-child(odd) {
+  background-color:rgb(109, 13, 112);
+  color: white;
+}
+  
+  tr:nth-child(even) {
+    background-color: rgb(216, 197, 24) !important;
+    color: black;
+  }
